@@ -19,3 +19,4 @@
 
 ## Usage check_messages.py
 1. You can input several messages to check it. If you want exit from program you can write "!exit".
+2. If word found in dictionary program won't print something, if word not found in dictionary program will print "word incorrect".
