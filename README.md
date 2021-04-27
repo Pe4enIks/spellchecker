@@ -1,11 +1,10 @@
 # Instruction
 ## Warning
-Dump file ~= 4GB
-
-Text corpus file ~= 8CB
+1. Dump file ~= 4GB
+2. Text corpus file ~= 8CB
 
 ## Download files
-[Dump file](https://dumps.wikimedia.org/ruwiki/latest/ruwiki-latest-pages-articles-multistream.xml.bz2)
+1. [Dump file](https://dumps.wikimedia.org/ruwiki/latest/ruwiki-latest-pages-articles-multistream.xml.bz2)
 
 ## Install all necessary packages
 1. pip install sys
@@ -19,4 +18,4 @@ Text corpus file ~= 8CB
 3. python check_messages.py ru_wiki_dict.txt
 
 ## Usage check_messages.py
-You can input several messages to check it. If you want exit from program you can write "!exit".
+1. You can input several messages to check it. If you want exit from program you can write "!exit".
