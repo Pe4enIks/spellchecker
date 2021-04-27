@@ -7,6 +7,7 @@
 2. pip install gensim
 3. pip install --upgrade numpy or pip install numpy(IMPORTANT: needed last version)
 4. pip install python-Levenshtein
+5. pip install string
 
 ## Run py files
 1. python get_corpus.py ruwiki-latest-pages-articles-multistream.xml.bz2 ru_wiki.txt
