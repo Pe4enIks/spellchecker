@@ -7,7 +7,7 @@ class InvalidArgumentsCount(Exception):
     Attributes:
         message -- explanation of the error
     """
-    def __init__(self, message="Usage: python build_dict_file.py <wiki_text_file> <dictionary_text_file>"):
+    def __init__(self, message="Usage: python build_dict.py <wiki_text_file> <dictionary_text_file>"):
         self.message = message
         super().__init__(self.message)
 
