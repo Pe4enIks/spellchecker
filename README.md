@@ -18,7 +18,7 @@ IMPORTANT: time for this variant approximately 3-4 hours
 2. python build_dict.py ru_wiki.txt ru_wiki_dict.txt
 3. python check_messages.py ru_wiki_dict.txt
 
-## Run program without preprocessing
+## Run program with dictionary file created earlier
 1. download and unzip ru_wiki_dict.zip -> ru_wiki_dict.txt
 2. python check_messages.py ru_wiki_dict.txt
 
