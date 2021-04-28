@@ -21,9 +21,7 @@ def get_dict(input_file):
     dct = []
     with open(input_file, "r", encoding="utf-8") as f:
         line = f.readline()
-        count = 0
         for word in line.rstrip().split():
-            count += 1
             dct.append(word)
     return dct
 
