@@ -1,7 +1,7 @@
 # Instruction
 ## Warning
 1. Dump file ~= 4GB
-2. Text corpus file ~= 8CB
+2. Text corpus file ~= 8GB
 
 ## Download files
 1. [Dump file](https://dumps.wikimedia.org/ruwiki/latest/ruwiki-latest-pages-articles-multistream.xml.bz2)
